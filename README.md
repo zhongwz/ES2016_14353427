@@ -41,7 +41,7 @@ DOL属于分布式操作系统，是一个软件，它是许多独立的，网�
 	解压systemc:
 	$	tar -zxvf systemc-2.3.1.tgz
 <br />
-运行结果：
+运行结果：</br>
 <img src="https://cl.ly/1M0g1u2D1g2C/mkdir%20dol.png" width = "400" height = "300"/>  
 <img src="https://cl.ly/2Q1x1E1k0z3t/unzip.png" width = "400" height = "300"/>  
 <img src="https://cl.ly/310J2t0f3m1e/unzip%20systemc-2.3.1.png" width = "400" height = "300"/> 
