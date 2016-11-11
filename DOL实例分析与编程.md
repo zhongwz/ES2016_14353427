@@ -6,7 +6,7 @@
 ![](https://ooo.0o0.ooo/2016/11/11/5825ae4cac978.png)
 ###二、如何修改
 ####Task 1：修改example2，让3个square模块变成2个
-具体操作：找到example2.xml，修改example2.xml，只需修改全局变量：迭代次数N，把它从3改为2即可。（注释部分为原来文件的操作）
+具体操作：找到example2.xml，修改example2.xml，只需修改全局变量：迭代次数N，把它从3改为2即可。（注释部分为原来文件的操作）</br>
 ![](https://ooo.0o0.ooo/2016/11/11/5825aea918221.png)
 ####Task 2：修改example1，使其输出3次方数
 具体操作：找到example1对应的square.c，在信号处理函数中，将平方的操作改为三次方数的操作即可。
